@@ -11,3 +11,7 @@ Result: 'Today in Florida and the white house and the white house and the'
 Seed: "today there was bipartisan support for"
 
 Result: 'today there was bipartisan support for the fbi and the fbi and the president of the election he was a war with the president of the'
+
+Seed: "today there was widespread condemnation"
+
+Result: 'today there was widespread condemnation of the kkk and get the town of the government s previous and that trump s administration is a very place to the fact that'
